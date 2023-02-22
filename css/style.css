@@ -1,0 +1,61 @@
+body{
+    background-image: url("../img/background-image.png");
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+
+}
+
+.principal{
+    border-top: 5px solid #CC342D;
+    background: #585450;
+    height: 40px;
+    width: 100%;
+}
+
+.principal a{
+    color: #F6F6F3;
+    text-decoration: none;
+}
+
+.principal ul li{ 
+    display: inline-block;
+    margin: 0 120px;
+}
+
+h1{
+    color: #CC342D;
+    font-size: 60px;
+    text-align: center;
+}
+
+h2{
+    color: #CC342D;
+}
+h3{
+    color: #CC342D;
+}
+
+p{
+    text-align: justify;
+
+}
+section{
+    width: 70%;
+    margin: 0 auto;
+}
+
+section section{
+    width: 100%;
+}
+
+img{
+    width: 50%;
+}
+
+pre{
+    background: #f8f8f8;
+    display: block;
+    padding: 12px 16px;
+    border-radius: 3px;
+    text-align: left;
+}
